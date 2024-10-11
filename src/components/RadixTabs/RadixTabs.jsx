@@ -1,4 +1,5 @@
 import * as Tabs from "@radix-ui/react-tabs";
+import * as Dialog from "@radix-ui/react-dialog";
 import styled from "styled-components";
 
 export default function RadixTabs() {
